@@ -1,0 +1,20 @@
+UOM_MAP_ITEM_ID,SOURCE_UNIT,SOURCE_UNIT_CATEGORY,SOURCE_INGREDIENT,DESTINATION_UNIT,DESTINATION_UNIT_CATEGORY,CONVERSION_FACTOR
+1,ounce,weight,,gram,volume,28.3495
+2,teaspoon,volume,yeast,gram,volume,3.1
+3,teaspoon,volume,salt,gram,volume,6
+4,tablespoon,volume,oil,gram,volume,13.3
+5,gram,weight,,gram,volume,1
+6,cup,volume,buttermilk,gram,volume,255
+7,cup,volume,sour cream,gram,volume,255
+8,teaspoon,volume,baking powder,gram,volume,4
+9,teaspoon,volume,baking soda,gram,volume,6
+10,tablespoon,volume,butter,gram,volume,14
+11,cup,volume,flour,gram,volume,140
+12,cup,volume,granulated sugar,gram,volume,200
+13,cup,volume,brown sugar,gram,volume,210
+14,teaspoon,volume,cornstarch,gram,volume,2.5
+15,tablespoon,volume,sugar,gram,volume,12.5
+16,tablespoon,volume,baking powder,gram,volume,14.38
+17,tablespoon,volume,cream cheese,gram,volume,14.1
+18,cup,volume,butter,gram,volume,227
+19,cup,volume,water,gram,volume,240
